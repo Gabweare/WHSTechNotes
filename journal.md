@@ -10,6 +10,8 @@ cool. You can use it like a game of Tug and War via flashlights.
 # September 10, 2024
 Random Jibberish.
 # September 17, 2024
-I can't think of anything to type.
+This is a free week
 # September 19, 2024
-This was a free week
+This is a free week
+# September 20, 2024
+I chose to program a castle for the swiss or dutch, I forgot
