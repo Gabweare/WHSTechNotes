@@ -15,3 +15,7 @@ This is a free week.
 This is a free week.
 # September 20, 2024
 I chose to program a castle for the swiss or dutch, I forgot.
+# September 27, 2024
+Weekly Journal Prompt: It is important to be precise when coding because even the smallest mistake can led to distaster
+and failure in a program. If steps or details are missed in coding, the code will not work. It is important to develop
+good habits of listening and attention to detail to not mess up in the future.
