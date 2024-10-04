@@ -19,3 +19,7 @@ I chose to program a castle for the swiss or dutch, I forgot.
 Weekly Journal Prompt: It is important to be precise when coding because even the smallest mistake can led to distaster
 and failure in a program. If steps or details are missed in coding, the code will not work. It is important to develop
 good habits of listening and attention to detail to not mess up in the future.
+# October 4, 2024
+Weekly Journal Prompt: Technology plays a role everywhere, everyday. It would be hard for bus drivers if they had to
+memberize which routes and streets to take without a GPS. Every time you use your phone, your using computer science.
+Without technology, life would be harder.
