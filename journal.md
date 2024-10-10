@@ -23,3 +23,8 @@ good habits of listening and attention to detail to not mess up in the future.
 Weekly Journal Prompt: Technology plays a role everywhere, everyday. It would be hard for bus drivers if they had to
 memberize which routes and streets to take without a GPS. Every time you use your phone, your using computer science.
 Without technology, life would be harder.
+# October 10, 2024
+Video game programmers intrests me because of what they do. Their tasks include developing gameplay systems, optimizing
+performance, implementing AI and physics, and bug fixing. They tipically need a bacholors or masters degree in a related
+field, and be used with C++, C#, Python, Unity, or Unreal Engine. The career of game programmers is expected to be 47%
+more(2020-2030). This reflects me because I wanted to do this for a long time.
