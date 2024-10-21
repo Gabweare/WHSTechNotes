@@ -32,3 +32,11 @@ expected to be 47% more(2020-2030). This reflects me because I wanted to do this
 Weekly Journal Prompt: Learning how to code can inprove the ability to solve problems because in coding, when problems
 arise, you must fix them or the code will not work. Learning how to code can be useful in developing apps and software in
 other industries. In a grand project, collaboration is key. But when by yourself, let your creativity run wild.
+# October 21, 2024
+Weekly Journal Prompt:
+AI can inprove and help our lives be better. Most factories have robots working 24/7 and can make more products than humans
+ever could. In places like hospitails and schools, AI can make scheaduels to make life more convient.
+
+However, AI also has downsides. It is taking over jobs like factories, receptionists, customer service, e commerce, and many
+more jobs. Also because of how difficult it is to program AI, if you can figure out the algorithm, you can do whatever you
+want, or promote whatever. It also act as security, so if hackers figure it out, you might be in trouble.
