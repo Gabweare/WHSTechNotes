@@ -40,3 +40,7 @@ ever could. In places like hospitails and schools, AI can make scheaduels to mak
 However, AI also has downsides. It is taking over jobs like factories, receptionists, customer service, e commerce, and many
 more jobs. Also because of how difficult it is to program AI, if you can figure out the algorithm, you can do whatever you
 want, or promote whatever. It also act as security, so if hackers figure it out, you might be in trouble.
+# October 28, 2024
+Weekly Journal Prompt: By making it more easier to count how many votes for one person or party. Because of ads, polititions
+can increase how many people see and know about them. However, polititions could also hire hackers to increase their votes
+or decrease another politition's votes.
