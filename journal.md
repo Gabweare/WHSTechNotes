@@ -44,3 +44,7 @@ want, or promote whatever. It also act as security, so if hackers figure it out,
 Weekly Journal Prompt: By making it more easier to count how many votes for one person or party. Because of ads, polititions
 can increase how many people see and know about them. However, polititions could also hire hackers to increase their votes
 or decrease another politition's votes.
+# November 6, 2024
+Weekly Journal Prompt: It is important to protect your personal information when online because hackers can and will use it
+for personal gain. By not being dumb and careful of what you say, your information can be secured. I don't share personal
+things online except in messages in group chats. Don't share your personal information with them.
