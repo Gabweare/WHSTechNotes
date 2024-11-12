@@ -48,3 +48,10 @@ or decrease another politition's votes.
 Weekly Journal Prompt: It is important to protect your personal information when online because hackers can and will use it
 for personal gain. By not being dumb and careful of what you say, your information can be secured. I don't share personal
 things online except in messages in group chats. Don't share your personal information with them.
+# November 12, 2024
+Weekly journal Prompt: Christmas is a holiday where we learn the gift of giving, family time, and gifts. We can relate to
+christmas with technology because of online shopping. Data analysis can analyze what gifts are popular and give advice on
+what gifts they might like.
+
+As technology advances, it might use more data from your history to find out the perfect gift for you. And not just for
+holidays, but for other events too. You can have all the news you would want at the tip of your fingers.
