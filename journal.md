@@ -59,3 +59,7 @@ holidays, but for other events too. You can have all the news you would want at 
 Weekly Journal Prompt: Technology has changed the way we grow, distribute, and purchase food because the AI and robots are
 in charge of maintaining our food. Because of vertical farming, more food is available faster for the holidays. If there was
 a outage of power, our fridges would stop working, and the food would rot.
+# December 2, 2024
+Weekly Journal Prompt: AI that can learn from humans will be a huge leap towards the future.
+Follow up Questions: I worry that AI will continue to take over jobs. AI could help me with my code. We should be careful as
+not to give AI too much control. However, Avancing AI is much necessary to continue towards the future.
