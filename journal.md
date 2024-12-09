@@ -63,3 +63,7 @@ a outage of power, our fridges would stop working, and the food would rot.
 Weekly Journal Prompt: AI that can learn from humans will be a huge leap towards the future.
 Follow up Questions: I worry that AI will continue to take over jobs. AI could help me with my code. We should be careful as
 not to give AI too much control. However, Avancing AI is much necessary to continue towards the future.
+# December 9, 2024
+Weekly Journal Prompt: Brainrot in my words mean anonying words with little to no meaning. I feel that digital media has had
+a negative impact on my mental being. I'm seeing low quality "slop", and amazing storytelling "lore". If possible, block all
+brainrot and maybe you avoid it.
