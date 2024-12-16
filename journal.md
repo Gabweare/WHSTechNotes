@@ -66,4 +66,6 @@ not to give AI too much control. However, Avancing AI is much necessary to conti
 # December 9, 2024
 Weekly Journal Prompt: Brainrot in my words mean anonying words with little to no meaning. I feel that digital media has had
 a negative impact on my mental being. I'm seeing low quality "slop", and amazing storytelling "lore". If possible, block all
-brainrot and maybe you avoid it.
+brainrot and maybe you can avoid it.
+# December 16, 2024
+Weekly Journal Prompt: Yes.
