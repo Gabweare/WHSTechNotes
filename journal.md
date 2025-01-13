@@ -69,3 +69,13 @@ a negative impact on my mental being. I'm seeing low quality "slop", and amazing
 brainrot and maybe you can avoid it.
 # December 16, 2024
 Weekly Journal Prompt: Yes.
+# January 8, 2025
+Weekly Journal Prompt: Using the computers were great. Only thing that could be improved is             .
+
+I want to start learning how to use Unity, Blender, Unreal Engine, and Python. How to make a website or game.
+
+I guess learning how to use Python or Blender.
+# January 13, 2025
+Weekly Journal Prompt: Due to AI, thousands of jobs are in danger. I believe that AI, as good as it is for everyone else, is a
+burden for workers because of all the jobs it takes from them. I plan to switch to Cyber Security classes since AI can't protect
+ digital information and make firewalls.
