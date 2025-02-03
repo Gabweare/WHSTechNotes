@@ -86,3 +86,5 @@ that they don't steal data.
 
 I would add a perrmission to follow button so strangers can't just follow you. Of course you can turn it off in the settings.
 I could use some of tiktok's feactures in app development.
+# February 3, 2025
+Weekly Journal Prompt: 
