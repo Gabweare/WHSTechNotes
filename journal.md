@@ -87,4 +87,7 @@ that they don't steal data.
 I would add a perrmission to follow button so strangers can't just follow you. Of course you can turn it off in the settings.
 I could use some of tiktok's feactures in app development.
 # February 3, 2025
-Weekly Journal Prompt: 
+Weekly Journal Prompt: Because of unclear interactiosn between the plane and the helicopter, the crash occourred. The helicopter
+was flying almost 200 feet higher than it should of. However, the air traffic control tower records show it at 200 feet.
+
+Investigators are looking to see what happened in the air traffic control tower at the time of the crash.
