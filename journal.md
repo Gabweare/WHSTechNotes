@@ -91,3 +91,11 @@ Weekly Journal Prompt: Because of unclear interactiosn between the plane and the
 was flying almost 200 feet higher than it should of. However, the air traffic control tower records show it at 200 feet.
 
 Investigators are looking to see what happened in the air traffic control tower at the time of the crash.
+# February 11, 2025
+| Syntax  |  Color | Count |
+| :---    | :----: |  ---: |
+| Circle  | Green  | 7     |
+| Square  | Yellow | 5     |
+| Hexagon | Brown  | 6     |
+| Triangle| Purple | 4     |
+| Octagon | Red    | 3     |
