@@ -92,7 +92,7 @@ was flying almost 200 feet higher than it should of. However, the air traffic co
 
 Investigators are looking to see what happened in the air traffic control tower at the time of the crash.
 # February 11, 2025
-| Syntax  |  Color | Count |
+|  Shape  |  Color | Count |
 | :---    | :----: |  ---: |
 | Circle  | Green  | 7     |
 | Square  | Yellow | 5     |
