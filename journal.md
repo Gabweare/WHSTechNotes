@@ -81,8 +81,8 @@ burden for workers because of all the jobs it takes from them. I plan to switch 
  digital information and make firewalls.
 # January 22, 2025
 Weekly Journal Prompt: Government intervention impacts company technology companies and their users because if the company is not
-American, it will probably get accused of something. As America doesn't have good relationships with chinese. Try to show proof
-that they don't steal data.
+American, it will probably get accused of something. As America doesn't have good relationships with chinese property. Try to
+show proof that they don't steal data.
 
 I would add a perrmission to follow button so strangers can't just follow you. Of course you can turn it off in the settings.
 I could use some of tiktok's feactures in app development.
@@ -99,3 +99,6 @@ Investigators are looking to see what happened in the air traffic control tower 
 | Hexagon | Brown  | 6     |
 | Triangle| Purple | 4     |
 | Octagon | Red    | 3     |
+# February 18, 2025
+Weekly Journal Prompt: Last week I learned who Ghandi was. I found out what Ghandi did from an assignment and youtube video in
+class. It was interesting because I never knew what he did before.
