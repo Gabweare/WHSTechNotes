@@ -78,7 +78,7 @@ I guess learning how to use Python or Blender.
 # January 13, 2025
 Weekly Journal Prompt: Due to AI, thousands of jobs are in danger. I believe that AI, as good as it is for everyone else, is a
 burden for workers because of all the jobs it takes from them. I plan to switch to Cyber Security classes since AI can't protect
- digital information and make firewalls.
+digital information and make firewalls.
 # January 22, 2025
 Weekly Journal Prompt: Government intervention impacts company technology companies and their users because if the company is not
 American, it will probably get accused of something. As America doesn't have good relationships with chinese property. Try to
@@ -102,3 +102,7 @@ Investigators are looking to see what happened in the air traffic control tower 
 # February 18, 2025
 Weekly Journal Prompt: Last week I learned who Ghandi was. I found out what Ghandi did from an assignment and youtube video in
 class. It was interesting because I never knew what he did before.
+# February 24, 2025
+Weekly Journal Prompt: More older people can use sites like Google and Bing to find out the meaning of these words. A benefit
+for adding slang words everywhere is that it would be easier for young people to understand. On the other hand, for the older
+people, sentences would be more confusing.
