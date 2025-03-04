@@ -106,3 +106,11 @@ class. It was interesting because I never knew what he did before.
 Weekly Journal Prompt: More older people can use sites like Google and Bing to find out the meaning of these words. A benefit
 for adding slang words everywhere is that it would be easier for young people to understand. On the other hand, for the older
 people, sentences would be more confusing.
+# March 3, 2025
+|  Name   |      Power      |       Challenge       |
+| :---    | :-------------: |  -------------------: |
+| Zara    | Telekenesis     | Secure Building       |
+| Aether  | Weather Control | Prevent Assassination |
+| Thorne  | Invisibility    | Underwater Rescue     |
+| Silver  | Mind Control    | Retrieve Stolen Goods |
+| Tangier | Shapeshifting   | Extract Prisoner      |
