@@ -114,3 +114,9 @@ people, sentences would be more confusing.
 | Thorne  | Invisibility    | Underwater Rescue     |
 | Silver  | Mind Control    | Retrieve Stolen Goods |
 | Tangier | Shapeshifting   | Extract Prisoner      |
+# March 17, 2025
+Weekly Journal Prompt: Over the spring break, I used many different technologies. These include games, apps, social media, and
+communacation. My cell phone helped me talk with my grandma to pick my birthday gift.
+
+I also used youtube which both helped and entertained me. Yes, I can connect technology to this class. I used multiple apps over
+the break, which counts as app functionality.
