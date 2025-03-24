@@ -120,3 +120,5 @@ communacation. My cell phone helped me talk with my grandma to pick my birthday 
 
 I also used youtube which both helped and entertained me. Yes, I can connect technology to this class. I used multiple apps over
 the break, which counts as app functionality.
+# March 24, 2025
+Weekly Journal Prompt: I think by adding AI to NCAA's March Madness, it has oppertunities to increase excitment.
