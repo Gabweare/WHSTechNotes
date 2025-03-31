@@ -125,3 +125,5 @@ Weekly Journal Prompt: I think by adding AI to NCAA's March Madness, it has oppe
 could predict who wins, it isn't always right. So fans can still choose their favorite players without worrying too much.
 
 AI doesn't affect how the viewer sees the game
+# March 31, 2025
+Weekly Journal Prompt: I didn't feel comfertable answering =(.
