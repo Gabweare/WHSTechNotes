@@ -87,8 +87,8 @@ show proof that they don't steal data.
 I would add a perrmission to follow button so strangers can't just follow you. Of course you can turn it off in the settings.
 I could use some of tiktok's feactures in app development.
 # February 3, 2025
-Weekly Journal Prompt: Because of unclear interactiosn between the plane and the helicopter, the crash occourred. The helicopter
-was flying almost 200 feet higher than it should of. However, the air traffic control tower records show it at 200 feet.
+Weekly Journal Prompt: Because of unclear interaction between the plane and the helicopter, the crash occourred. The helicopter
+was flying almost 200 feet higher than it should have. However, the air traffic control tower records show it at 200 feet.
 
 Investigators are looking to see what happened in the air traffic control tower at the time of the crash.
 # February 11, 2025
@@ -124,6 +124,8 @@ the break, which counts as app functionality.
 Weekly Journal Prompt: I think by adding AI to NCAA's March Madness, it has oppertunities to increase excitment. Although it
 could predict who wins, it isn't always right. So fans can still choose their favorite players without worrying too much.
 
-AI doesn't affect how the viewer sees the game
+AI doesn't affect how the viewer sees the game.
 # March 31, 2025
 Weekly Journal Prompt: I didn't feel comfertable answering =(.
+# April 7, 2025
+Weekly Journal Prompt:
