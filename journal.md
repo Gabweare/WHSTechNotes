@@ -129,3 +129,7 @@ AI doesn't affect how the viewer sees the game.
 Weekly Journal Prompt: I didn't feel comfertable answering =(.
 # April 7, 2025
 Weekly Journal Prompt: AI can help me study for upcoming tests by giving and explaining questions to me.
+# April 14, 2025
+Weekly Journal Prompt:
+# April 22, 2025
+Weekly Journal Prompt: Working on it.
