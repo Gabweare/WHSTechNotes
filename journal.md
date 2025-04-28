@@ -133,3 +133,8 @@ Weekly Journal Prompt: AI can help me study for upcoming tests by giving and exp
 Weekly Journal Prompt:
 # April 22, 2025
 Weekly Journal Prompt: Working on it.
+# April 28, 2025
+|  Name  |  Flavor | Occasion |
+| :---    | :----: |  ---: |
+| Circle  | Green  | 7     |
+| Square  | Yellow | 5     |
