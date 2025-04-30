@@ -134,7 +134,8 @@ Weekly Journal Prompt:
 # April 22, 2025
 Weekly Journal Prompt: Working on it.
 # April 28, 2025
-|  Name  |  Flavor | Occasion |
-| :---    | :----: |  ---: |
-| Circle  | Green  | 7     |
-| Square  | Yellow | 5     |
+|  Name   |  Flavor | Occasion | Price |
+| :---    | :----: |  ------- | ---:   |
+|  Sally  |        |          |        |
+| Micheal |        |          |        |
+| Emma    | Carrot |          |   39   |
