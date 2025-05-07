@@ -130,12 +130,21 @@ Weekly Journal Prompt: I didn't feel comfertable answering =(.
 # April 7, 2025
 Weekly Journal Prompt: AI can help me study for upcoming tests by giving and explaining questions to me.
 # April 14, 2025
-Weekly Journal Prompt:
+Weekly Journal Prompt: I feel that if the law was passed, it would be both benifitical and harmful. Each day, at least 12 children
+die from gun violence.
 # April 22, 2025
 Weekly Journal Prompt: Working on it.
 # April 28, 2025
-|  Name   |  Flavor | Occasion | Price |
-| :---    | :----: |  ------- | ---:   |
-|  Sally  |        |          |        |
-| Micheal |        |          |        |
-| Emma    | Carrot |          |   39   |
+|  Name   |   Flavor  |    Occasion    | Price  |
+| :------ | --------- | -------------- | -----: |
+|  Sally  | Chocolate |   Graduation   |   35   |
+| Micheal |  Vanilla  | Farewell Party |   37   |
+|  Emma   |  Carrot   |    Birthday    |   39   |
+# May 5, 2025
+Weekly Journal Prompt:
+I believe that the 100 men could beat the gorilla. Not only are gorillas mostly peaceful, but humans have stratigy and we outnumber
+it. Obvosly we would lose a few men, but we would still win.
+
+Since a lot of people matured from COVID, we understand that this is just a trend and we should NOT fight a gorilla. This trend
+evolved from a single question to countless people making tik-toks with the gorilla (or humans) doing crazy things. This trend
+provides both entertainment and education.
