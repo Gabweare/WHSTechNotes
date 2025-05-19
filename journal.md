@@ -143,8 +143,12 @@ Weekly Journal Prompt: Working on it.
 # May 5, 2025
 Weekly Journal Prompt:
 I believe that the 100 men could beat the gorilla. Not only are gorillas mostly peaceful, but humans have stratigy and we outnumber
-it. Obvosly we would lose a few men, but we would still win.
+it. Obvisly we would lose a few men, but we would still win.
 
 Since a lot of people matured from COVID, we understand that this is just a trend and we should NOT fight a gorilla. This trend
 evolved from a single question to countless people making tik-toks with the gorilla (or humans) doing crazy things. This trend
 provides both entertainment and education.
+# May 12, 2025
+Weekly Journal Prompt:
+# May 19, 2025
+Weekly Journal Prompt: Yes I am ready for summer after all the stress this school gave me throughout the year.
