@@ -153,4 +153,4 @@ Weekly Journal Prompt:
 # May 19, 2025
 Weekly Journal Prompt: Yes I am ready for summer after all the stress this school gave me throughout the year.
 # September 2, 2025
-Weekly Journal Prompt: working on it. 2. 3. 4. 5.
+Weekly Journal Prompt: I believe that the cell phone school policy works for some people. The. 3. 4. 5.
