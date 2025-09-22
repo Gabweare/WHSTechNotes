@@ -213,3 +213,5 @@ Weekly Journal Prompt: I believe that the cell phone school policy works for som
 Weekly Journal Prompt: A career that i'm interested in is Cybersecurity. Computers are an esste
 # September 15, 2025
 Weekly Journal Prompt: My idea of a AI that takes major inspiration from Tony Stark's J.A.R.V.I.S and Alexa. As Technology.
+# September 22, 2025
+weekly Journal Prompt: Ikea
