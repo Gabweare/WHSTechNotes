@@ -216,4 +216,5 @@ Weekly Journal Prompt: My idea of a AI that takes major inspiration from Tony St
 # September 22, 2025
 weekly Journal Prompt: Ikea
 # September 30, 2025
-<img width="318" height="159" alt="image" src="https://github.com/user-attachments/assets/688b2abf-d6f7-4d6f-9733-fe67a18b8719" />
+Weekly Journal Prompt:
+<img width="194" height="259" alt="image" src="https://github.com/user-attachments/assets/69b3e6a1-54f1-4199-af1b-45436c7ed24d" />
