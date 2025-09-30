@@ -214,7 +214,7 @@ Weekly Journal Prompt: A career that i'm interested in is Cybersecurity. Compute
 # September 15, 2025
 Weekly Journal Prompt: My idea of a AI that takes major inspiration from Tony Stark's J.A.R.V.I.S and Alexa. As Technology.
 # September 22, 2025
-weekly Journal Prompt: Ikea
+Weekly Journal Prompt: Ikea
 # September 30, 2025
 Weekly Journal Prompt: 44 + 23 =
 <img width="460" height="438" alt="image" src="https://github.com/user-attachments/assets/b70fe383-5513-413a-a6ab-e7dabb10a654" />
