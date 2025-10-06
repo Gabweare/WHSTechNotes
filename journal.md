@@ -218,3 +218,5 @@ Weekly Journal Prompt: Ikea
 # September 30, 2025
 Weekly Journal Prompt: 44 + 23 =
 <img width="460" height="438" alt="image" src="https://github.com/user-attachments/assets/b70fe383-5513-413a-a6ab-e7dabb10a654" />
+# October 6, 2025
+Weekly Journal Prompt: TBD
