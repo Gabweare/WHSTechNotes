@@ -220,3 +220,5 @@ Weekly Journal Prompt: 44 + 23 =
 <img width="460" height="438" alt="image" src="https://github.com/user-attachments/assets/b70fe383-5513-413a-a6ab-e7dabb10a654" />
 # October 6, 2025
 Weekly Journal Prompt: TBD
+# October 14, 2025
+here[https://www.canva.com/ai/code/thread/3360f3e4-bdc6-497f-87bb-bbee273dc1b5]
