@@ -228,3 +228,9 @@ here[https://www.canva.com/ai/code/thread/3360f3e4-bdc6-497f-87bb-bbee273dc1b5]
 | Franklin| Second |  91A  |
 | Hardeep | Third  |  61F  |
 |  Marla  | First  |  35B  |
+# October 27, 2025
+|  Name   |   Main Dish    |      Dessert      |
+| :---    | :------------: |  ---------------: |
+|  Fiona  |   Gado Gado    |   Creme Brulee    |
+| Tobias  | Shrimp Ceviche | French Apple Cake |
+| Leinne  | Beef Wellington| Raspberry Tiramisu|
