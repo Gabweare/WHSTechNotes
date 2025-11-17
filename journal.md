@@ -238,3 +238,5 @@ here[https://www.canva.com/ai/code/thread/3360f3e4-bdc6-497f-87bb-bbee273dc1b5]
 Weekly Journal Prompt: Free Journal
 # November 10, 2025
 Weekly
+# November 17, 2025
+Weekly Journal Prompt: Yes, I will probably sleep a lot throughout the week.
