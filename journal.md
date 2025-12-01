@@ -240,3 +240,5 @@ Weekly Journal Prompt: Free Journal
 Weekly
 # November 17, 2025
 Weekly Journal Prompt: Yes, I will probably sleep a lot throughout the week.
+# December 1, 2025
+Weekly Journal Prompt: While there are many jobs that use drones,
