@@ -244,3 +244,5 @@ Weekly Journal Prompt: Yes, I will probably sleep a lot throughout the week.
 Weekly Journal Prompt: While there are many jobs that use drones,
 # December 8, 2025
 Weekly Journal Prompt: Coming out Q1 2026
+# December 15, 2025
+Weekly Journal Prompt: Sleep
