@@ -237,12 +237,14 @@ here[https://www.canva.com/ai/code/thread/3360f3e4-bdc6-497f-87bb-bbee273dc1b5]
 # November 3, 2025
 Weekly Journal Prompt: Free Journal
 # November 10, 2025
-Weekly
+Weekly Journal Prompt:
 # November 17, 2025
 Weekly Journal Prompt: Yes, I will probably sleep a lot throughout the week.
 # December 1, 2025
 Weekly Journal Prompt: While there are many jobs that use drones,
 # December 8, 2025
-Weekly Journal Prompt: Coming out Q1 2026
+Weekly Journal Prompt: Coming out Q2 2026
 # December 15, 2025
 Weekly Journal Prompt: Sleep
+# January 7, 2026
+Weekly Journal Prompt: Because my phone got thirst
