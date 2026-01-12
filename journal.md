@@ -246,5 +246,7 @@ Weekly Journal Prompt: While there are many jobs that use drones,
 Weekly Journal Prompt: Coming out Q2 2026
 # December 15, 2025
 Weekly Journal Prompt: Sleep
-# January 7, 2026
-Weekly Journal Prompt: Because my phone got thirst
+# January 6, 2026
+Weekly Journal Prompt: Because my phone got thirsty, I had to interact with my computer more.
+# January 12, 2026
+Weekly Journal Prompt: Autcraft is a private minecraft server that is meant to be safe and kind for autisic kids.
