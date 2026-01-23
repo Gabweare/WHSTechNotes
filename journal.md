@@ -212,7 +212,7 @@ Weekly Journal Prompt: I believe that the cell phone school policy works for som
 # September 8, 2025
 Weekly Journal Prompt: A career that i'm interested in is Cybersecurity. Computers are an esste
 # September 15, 2025
-Weekly Journal Prompt: My idea of a AI that takes major inspiration from Tony Stark's J.A.R.V.I.S and Alexa. As Technology.
+Weekly Journal Prompt: My idea of a AI that takes major inspiration from Tony Stark's J.A.R.V.I.S and Alexa. As Technology evolves.
 # September 22, 2025
 Weekly Journal Prompt: Ikea
 # September 30, 2025
@@ -252,3 +252,5 @@ Weekly Journal Prompt: Because my phone got thirsty, I had to interact with my c
 Weekly Journal Prompt: Autcraft is a private minecraft server that is meant to be safe and kind for autisic kids.
 # January 20, 2025
 Weekly Journal Prompt: This MLK day, I helped my little brother with speeding up his old computer by 5x faster.
+# January 23, 2025
+https://play.unity.com/en/games/7c23abc2-abb7-4f57-b39c-230360231505/my-brand-new-game
