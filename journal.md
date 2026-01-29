@@ -254,3 +254,5 @@ Weekly Journal Prompt: Autcraft is a private minecraft server that is meant to b
 Weekly Journal Prompt: This MLK day, I helped my little brother with speeding up his old computer by 5x faster.
 # January 23, 2025
 https://play.unity.com/en/games/7c23abc2-abb7-4f57-b39c-230360231505/my-brand-new-game
+# January 29, 2025
+Weekly Journal Prompt:
