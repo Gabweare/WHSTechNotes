@@ -250,9 +250,11 @@ Weekly Journal Prompt: Sleep
 Weekly Journal Prompt: Because my phone got thirsty, I had to interact with my computer more.
 # January 12, 2026
 Weekly Journal Prompt: Autcraft is a private minecraft server that is meant to be safe and kind for autisic kids.
-# January 20, 2025
+# January 20, 2026
 Weekly Journal Prompt: This MLK day, I helped my little brother with speeding up his old computer by 5x faster.
-# January 23, 2025
+# January 23, 2026
 https://play.unity.com/en/games/7c23abc2-abb7-4f57-b39c-230360231505/my-brand-new-game
-# January 29, 2025
+# January 29, 2026
 Weekly Journal Prompt:
+# February 2, 2026
+Weekly Journal Prompt: yes.
