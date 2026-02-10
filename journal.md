@@ -258,3 +258,5 @@ https://play.unity.com/en/games/7c23abc2-abb7-4f57-b39c-230360231505/my-brand-ne
 Weekly Journal Prompt:
 # February 2, 2026
 Weekly Journal Prompt: yes.
+# February 10, 2026
+Weekly Journal Prompt: No, I only enjoy the halftime show(s). Only the Halftime Show and third quarter. The Halftime Show was amazing.
