@@ -260,3 +260,5 @@ Weekly Journal Prompt:
 Weekly Journal Prompt: yes.
 # February 10, 2026
 Weekly Journal Prompt: No, I only enjoy the halftime show(s). Only the Halftime Show and third quarter. The Halftime Show was amazing.
+# February 23, 2026
+Weekly Journal Prompt: ?
