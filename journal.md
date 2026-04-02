@@ -214,12 +214,12 @@ Weekly Journal Prompt: A career that i'm interested in is Cybersecurity. Compute
 # September 15, 2025
 Weekly Journal Prompt: My idea of a AI that takes major inspiration from Tony Stark's J.A.R.V.I.S and Alexa. As Technology evolves.
 # September 22, 2025
-Weekly Journal Prompt: Ikea
+Weekly Journal Prompt:?
 # September 30, 2025
 Weekly Journal Prompt: 44 + 23 =
 <img width="460" height="438" alt="image" src="https://github.com/user-attachments/assets/b70fe383-5513-413a-a6ab-e7dabb10a654" />
 # October 6, 2025
-Weekly Journal Prompt: TBD
+Weekly Journal Prompt:?
 # October 14, 2025
 here[https://www.canva.com/ai/code/thread/3360f3e4-bdc6-497f-87bb-bbee273dc1b5]
 # October 20, 2025
@@ -237,7 +237,7 @@ here[https://www.canva.com/ai/code/thread/3360f3e4-bdc6-497f-87bb-bbee273dc1b5]
 # November 3, 2025
 Weekly Journal Prompt: Free Journal
 # November 10, 2025
-Weekly Journal Prompt:
+Weekly Journal Prompt:?
 # November 17, 2025
 Weekly Journal Prompt: Yes, I will probably sleep a lot throughout the week.
 # December 1, 2025
@@ -255,10 +255,16 @@ Weekly Journal Prompt: This MLK day, I helped my little brother with speeding up
 # January 23, 2026
 https://play.unity.com/en/games/7c23abc2-abb7-4f57-b39c-230360231505/my-brand-new-game
 # January 29, 2026
-Weekly Journal Prompt:
+Weekly Journal Prompt:?
 # February 2, 2026
 Weekly Journal Prompt: yes.
 # February 10, 2026
-Weekly Journal Prompt: No, I only enjoy the halftime show(s). Only the Halftime Show and third quarter. The Halftime Show was amazing.
+Weekly Journal Prompt: No, I only enjoy the halftime show(s). Only the Halftime Show and the beginning of the third quarter. The Halftime Show was amazing.
 # February 23, 2026
-Weekly Journal Prompt: ?
+Weekly Journal Prompt: While the Olimpics had loads of technology surronding it, the one that had the biggest impact on the Winter Olympic Games were the cameras.
+# March 2, 2026
+Weekly Journal Prompt:?
+# March 23, 2026
+Weekly Journal Prompt:?
+# March 30, 2026
+Weekly Journal Prompt:?
