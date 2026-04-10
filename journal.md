@@ -143,7 +143,7 @@ Weekly Journal Prompt: Working on it.
 # May 5, 2025
 Weekly Journal Prompt:
 I believe that the 100 men could beat the gorilla. Not only are gorillas mostly peaceful, but humans have stratigy and we outnumber
-it. Obvisly we would lose a few men, but we would still win.
+it. Obviously we would lose a few men, but we would still win.
 
 Since a lot of people matured from COVID, we understand that this is just a trend and we should NOT fight a gorilla. This trend
 evolved from a single question to countless people making tik-toks with the gorilla (or humans) doing crazy things. This trend
@@ -268,3 +268,7 @@ Weekly Journal Prompt:?
 Weekly Journal Prompt:?
 # March 30, 2026
 Weekly Journal Prompt:?
+# April 9, 2026
+Weekly Journal Prompt: If I was on that ship, my Plan A would be to tell the AI that I'll call Anthropic and shut down/destroy the AI model permently. My Plan B would be to take a pole and crowbar/bash my way outside the ship. Plan C would be to search up "how to outsmart an advanced Anthropic AI model" on Google's advanced AI Gemini model and hope it snitches on Anthropic. Plan D is the "give up and admit defeat" plan. Plan E is to ask another crew member for suggestions.
+
+ss
