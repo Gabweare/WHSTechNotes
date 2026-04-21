@@ -270,5 +270,7 @@ Weekly Journal Prompt:?
 Weekly Journal Prompt:?
 # April 9, 2026
 Weekly Journal Prompt: If I was on that ship, my Plan A would be to tell the AI that I'll call Anthropic and shut down/destroy the AI model permently. My Plan B would be to take a pole and crowbar/bash my way outside the ship. Plan C would be to search up "how to outsmart an advanced Anthropic AI model" on Google's advanced AI Gemini model and hope it snitches on Anthropic. Plan D is the "give up and admit defeat" plan. Plan E is to ask another crew member for suggestions.
-
-ss
+# April 13, 2026
+Weekly Journal Prompt: (WIP)
+# April 20, 2026
+Weekly Journal Prompt: I think it matters a LOT if music or content is made artificailly or by humans. "I prefer AI-free content MADE BY MAN, I know it has it's flaws, I kinda like it!" -Ken.
