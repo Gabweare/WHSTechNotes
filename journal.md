@@ -274,3 +274,7 @@ Weekly Journal Prompt: If I was on that ship, my Plan A would be to tell the AI 
 Weekly Journal Prompt: (WIP)
 # April 20, 2026
 Weekly Journal Prompt: I think it matters a LOT if music or content is made artificailly or by humans. "I prefer AI-free content MADE BY MAN, I know it has it's flaws, I kinda like it!" -Ken.
+# April 27, 2026
+Weekly Journal Prompt: ?
+# May 6, 2026
+Weekly Journal Prompt: ?
