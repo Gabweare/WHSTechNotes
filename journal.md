@@ -278,3 +278,5 @@ Weekly Journal Prompt: I think it matters a LOT if music or content is made arti
 Weekly Journal Prompt: ?
 # May 6, 2026
 Weekly Journal Prompt: ?
+# May 11, 2026
+Weekly Journal Prompt: I grew a lot mmore in AP World History than I did in other classes. The growth was probraby from my teacher. My test scores are better this semester than last semester. Compared to the beginning of the school year, I feel more misrable, less self esteem, more stressed, more tired, etc. Overall, more miserable compared  to the start of the year.
